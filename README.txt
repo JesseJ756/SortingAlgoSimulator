@@ -9,6 +9,8 @@ There are 5 different algorithm to choose from:
   - Radix sort
   - Merge sort
   - Quick sort
+  
+Start program by starting a server in Menu.js.
 
 To start the sorting simply click on one of the boxes that contains the name of a sorting algorithm,
 then click the "Start/Stop" button.
